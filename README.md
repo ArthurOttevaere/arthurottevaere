@@ -1,7 +1,7 @@
-# Hi, I'm Arthur Ottevaere 👋
+# Hi, I'm Arthur Ottevaere 
 
 ### Business Engineer & Data Analytics Specialist
-*🎓 Master 2 Student in Business Engineering (Specificity: Business Analytics) @ UCLouvain FUCaM Mons & Rotterdam School of Management (RSM)*
+* Master 2 Student in Business Engineering (Specificity: Business Analytics) @ UCLouvain FUCaM Mons & Rotterdam School of Management (RSM)*
 
 I bridge the gap between complex data and strategic business decisions. Passionate about machine learning, predictive modeling, and developing data-driven solutions to solve real-world industrial and corporate challenges.
 
@@ -31,7 +31,7 @@ I bridge the gap between complex data and strategic business decisions. Passiona
 
 ---
 
-## 🛠️ Tech Stack & Toolbox
+## Tech Stack & Toolbox
 
 | Category | Technologies |
 | :--- | :--- |
@@ -42,7 +42,7 @@ I bridge the gap between complex data and strategic business decisions. Passiona
 
 ---
 
-## 🌍 Languages & Certifications
+## Languages & Certifications
 
 * **English:** **C1 Advanced** (IELTS Academic Certified — British Council)
 * **French:** Native
@@ -50,6 +50,6 @@ I bridge the gap between complex data and strategic business decisions. Passiona
 
 ---
 
-## 🔗 Connect with me
-🌐 [Discover my Portfolio Website](https://arthurottevaere.github.io)  
-💼 [LinkedIn Profile](https://www.linkedin.com/in/arthur-ottevaere/)
+## Connect with me
+[Discover my Portfolio Website](https://arthurottevaere.github.io)  
+[LinkedIn Profile](https://www.linkedin.com/in/arthur-ottevaere/)
