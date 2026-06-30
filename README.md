@@ -13,19 +13,19 @@ I bridge the gap between complex data and strategic business decisions. Passiona
 * **Tech:** Python, Ridge CV, BPR Algorithms, Pandas, Scikit-learn
 * **What it does:** Developed an advanced recommender system with optimized performances. Includes rigorous model evaluation and video demonstrations to showcase algorithmic performance.
 
-### 3D Gesture Recognition System
+### [3D Gesture Recognition System](https://github.com/ArthurOttevaere/AI-GestureRecognition-Group6)
 * **Tech:** Python, Dynamic Programming, Machine Learning
 * **What it does:** Built an end-to-end pipeline for 3D sequential signal processing, tracking accuracy, and mapping performance through detailed confusion matrices.
 
-### Multi-commodity Logistics Network
+### [Multi-commodity Logistics Network](https://github.com/ArthurOttevaere/QDM_GlobalFlow)
 * **Tech:** XPress Mosel, Python, HTML, Optimization
 * **What it does:** Designed and optimized a resilient multi-commodity logistics network using MIP, analyzing network robustness under geopolitical disruptions across three products.
 
-### Web Mining - Cinema Reviews Analysis
+### [Web Mining - Cinema Reviews Analysis](https://github.com/ArthurOttevaere/WebMining-Cinema-Reviews)
 * **Tech:** Web Mining, Graph Theory, Python, Pandas, Gephi
 * **What it does:** Mapped the "DNA" of cinema by scrapping 900+ reviews from the Roger Ebert website.
 
-### F1 Race Winner Predictor
+### [F1 Race Winner Predictor](https://github.com/ArthurOttevaere/f1_race_predictor)
 * **Tech:** Python, FASTF1 API, HTML
 * **What it does:** Crafted a complete F1 dashboard allowing the user to predict the results of race. It also helps to follow the Formula 1 season better.
 
