@@ -50,15 +50,6 @@ I bridge the gap between complex data and strategic business decisions. Passiona
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurottevaere&show_icons=true&theme=visual_studio_dark&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurottevaere&layout=compact&theme=visual_studio_dark&hide=css,html" height="150" alt="Top Languages" />
-</p>
-
----
-
 ## 🔗 Connect with me
 🌐 [Discover my Portfolio Website](https://arthurottevaere.github.io)  
 💼 [LinkedIn Profile](https://www.linkedin.com/in/arthur-ottevaere/)
