@@ -18,16 +18,16 @@ I bridge the gap between complex data and strategic business decisions. Passiona
 * **What it does:** Built an end-to-end pipeline for 3D sequential signal processing, tracking accuracy, and mapping performance through detailed confusion matrices.
 
 ### Multi-commodity Logistics Network
-* **Tech:** 
-* **What it does:**
+* **Tech:** XPress Mosel, Python, HTML, Optimization
+* **What it does:** Designed and optimized a resilient multi-commodity logistics network using MIP, analyzing network robustness under geopolitical disruptions across three products.
 
 ### Web Mining - Cinema Reviews Analysis
-* **Tech:** 
-* **What it does:**
+* **Tech:** Web Mining, Graph Theory, Python, Pandas, Gephi
+* **What it does:** Mapped the "DNA" of cinema by scrapping 900+ reviews from the Roger Ebert website.
 
 ### F1 Race Winner Predictor
-* **Tech:** 
-* **What it does:** 
+* **Tech:** Python, FASTF1 API, HTML
+* **What it does:** Crafted a complete F1 dashboard allowing the user to predict the results of race. It also helps to follow the Formula 1 season better.
 
 ---
 
