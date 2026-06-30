@@ -1,7 +1,7 @@
 # Hi, I'm Arthur Ottevaere 
 
 ### Business Engineer & Data Analytics Specialist
-* Master 2 Student in Business Engineering (Specificity: Business Analytics) @ UCLouvain FUCaM Mons & Rotterdam School of Management (RSM)*
+*Master 2 Student in Business Engineering (Specificity: Business Analytics) @ UCLouvain FUCaM Mons & Rotterdam School of Management (RSM)*
 
 I bridge the gap between complex data and strategic business decisions. Passionate about machine learning, predictive modeling, and developing data-driven solutions to solve real-world industrial and corporate challenges.
 
