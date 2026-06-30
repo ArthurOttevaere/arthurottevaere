@@ -9,7 +9,7 @@ I bridge the gap between complex data and strategic business decisions. Passiona
 
 ## Featured Projects
 
-### Movix — High-Performing Recommender System
+### [Movix — High-Performing Recommender System](https://github.com/ArthurOttevaere/Recommender_System_Assignments)
 * **Tech:** Python, Ridge CV, BPR Algorithms, Pandas, Scikit-learn
 * **What it does:** Developed an advanced recommender system with optimized performances. Includes rigorous model evaluation and video demonstrations to showcase algorithmic performance.
 
