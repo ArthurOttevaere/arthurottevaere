@@ -29,6 +29,10 @@ I bridge the gap between complex data and strategic business decisions. Passiona
 * **Tech:** Python, FASTF1 API, HTML
 * **What it does:** Crafted a complete F1 dashboard allowing the user to predict the results of race. It also helps to follow the Formula 1 season better.
 
+### [Surgical Scheduling Optimization](https://github.com/ArthurOttevaere/surgical-scheduling-optimization)
+* **Tech:** XPress Mosel, Python, Optimization
+* **What it does:** Designed a mathematical optimization model to rebuild a hospital's surgical scheduling grid from scratch. It allows management to balance patient flows, test operational scenarios, and make informed decisions ahead of a major site merger.
+
 ---
 
 ## Tech Stack & Toolbox
