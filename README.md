@@ -1,5 +1,7 @@
 # Hi, I'm Arthur Ottevaere 
 
+![Bannière](assets/banner.png)
+
 ### Business Engineering & Business Analytics Master Student
 *Master 2 Student in Business Engineering (Specificity: Business Analytics) @ UCLouvain FUCaM Mons & Rotterdam School of Management (RSM)*
 
